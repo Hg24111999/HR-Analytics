@@ -25,5 +25,5 @@ The HR Analytics Dashboard is a powerful tool developed in Power BI to analyze a
 Contributions to enhance the HR Analytics Dashboard are welcome! If you have suggestions, improvements, or feature requests, please submit a pull request or open an issue.
 
 **Requirements**
-Power BI Desktop (Version XYZ or higher) to open and interact with the dashboard.
+Power BI Desktop to open and interact with the dashboard.
 
